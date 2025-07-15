@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinod Kumar (a.k.a. Vinodrajbhar)
+# 👋 Hi, I'm Vinod Kumar (a.k.a. Vinod Rajbhar)
 
 🚀 **Senior Full Stack Developer** | 14+ Years of Experience  
 💻 **JavaScript, React, Node.js, Laravel, PHP, WebRTC, Web APIs**
